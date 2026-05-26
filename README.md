@@ -1,5 +1,7 @@
 # Awesome-repos-for-daily-academic-work
 
+## know how
+[claude-how-to](https://github.com/FrancyJGLisboa/agent-skill-creator)
 
 ## Harnesss framework
 [everything-claude-code](https://github.com/op7418/guizang-ppt-skill) 
