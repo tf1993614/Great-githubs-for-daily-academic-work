@@ -1,6 +1,6 @@
 # Awesome-repos-for-daily-academic-work
 
-## know how
+## Know how
 [claude-how-to](https://github.com/FrancyJGLisboa/agent-skill-creator)
 
 ## Harnesss framework
@@ -15,17 +15,19 @@
 
 [Acacemic-research-skills](https://github.com/Imbad0202/academic-research-skills)
 
-## presentation
+## Presentation
 [ppt-master](https://github.com/hugohe3/ppt-master)
 
 [Frontend Slides](https://github.com/zarazhangrui/frontend-slides)
 
 [ppt-skills](https://github.com/op7418/guizang-ppt-skill)
 
-## plugin market
+## Plugin market
 [Awesome Claude Skills](https://awesome-skills.com/)
 
-## grant application
+## Grant application
 [nsfc-review](https://github.com/jinyh/nsfc-review/tree/main)
 
 [ChineseResearchLaTeX](https://github.com/huangwb8/ChineseResearchLaTeX)
+
+[nsfc-skills](https://github.com/wangjinger1218/nsfc-skills/tree/main)
